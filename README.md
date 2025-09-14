@@ -31,7 +31,7 @@ README.md → Project description
 
 ⚙️ How to Run
 Clone the repository
-git clone https://github.com/your-username/AICTE-ClimateRisk-Project.git
+git clone https://github.com/Harsh-KH-6/Climate-Risk-and-Disaster-Mangement-AICTE.git
 
 
 ---
