@@ -3,7 +3,7 @@ This repository contains my AICTE Internship project on Climate Risk and Disaste
 
 ---
 
-## Week 1 Project
+# Week 1 Project
 In Week 1, the goal was to reach the Data Understanding stage:
 
 Imported necessary Python libraries (pandas, numpy)
@@ -36,7 +36,7 @@ git clone https://github.com/your-username/AICTE-ClimateRisk-Project.git
 
 ---
 
-## Week 2 Project 
+# Week 2 Project 
 
 This week focused on preparing the forest fire dataset for analysis and modeling.
 
